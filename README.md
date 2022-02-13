@@ -14,6 +14,7 @@ Readme WIP...
  - JPA
  - JEE
  - Angular
+ - Android
  
 ### Tecnologias que estou descobrindo :D
 
@@ -29,3 +30,5 @@ Readme WIP...
 - C++
 - PL/SQL
 - C#
+- Android
+- Pascal
