@@ -11,10 +11,7 @@ Readme WIP...
 
 ### Tecnologias que eu mais gosto <3
  - Java
- - JPA
- - JEE
- - Angular
- - Android
+ - Python
  
 ### Tecnologias que estou descobrindo :D
 
@@ -32,3 +29,4 @@ Readme WIP...
 - C#
 - Android
 - Pascal
+- Python
