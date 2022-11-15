@@ -1,9 +1,5 @@
    
 # David Alvares 
-
-Readme WIP...
-
-
 ![Meu status](https://github-readme-stats.vercel.app/api?username=davidalvares&show_icons=true&theme=dark&custom_title=Minhas%20Contribuições)
 
 
